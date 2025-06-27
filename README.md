@@ -50,10 +50,26 @@
 ## ✨ Filosofia pessoal
 
 <p align="center">
-  <img src="https://singlecolorimage.com/get/00C8FF/60x60" alt="Zima Blue Square" /><br><br>
-  <i style="font-size: 20px;">
-    "Buscando a essência através do código. Simples, direto, azul." — <b>PHcoded</b>
-  </i>
+  <img src="https://singlecolorimage.com/get/00C8FF/20x20" alt="Zima Blue" style="vertical-align: middle;"/>
+  <span style="font-size: 18px; font-style: italic; color: #00C8FF;">
+    &nbsp;No fim das contas, é tudo sobre criar com propósito... e com um pouco de azul também.
+  </span>
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:contact.phdev@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/25/00C8FF/gmail.png" alt="Gmail" title="Gmail" />
+  </a>&nbsp;&nbsp;
+  <a href="https://reddit.com/u/Pithenry" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/25/00C8FF/reddit.png" alt="Reddit" title="Reddit" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/PHthe2000" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/25/00C8FF/twitterx.png" alt="X" title="X (Twitter)" />
+  </a>
 </p>
 
 ---
