@@ -33,8 +33,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Phdev6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=00C8FF&icon_color=00C8FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phdev6&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00C8FF&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PHcoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=00C8FF&icon_color=00C8FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHcoded&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00C8FF&text_color=ffffff" />
 </div>
 
 ---
@@ -49,10 +49,15 @@
 
 ## ✨ Filosofia pessoal
 
-> "Buscando a essência através do código. Simples, direto, azul." — PHcoded
+<p align="center">
+  <img src="https://singlecolorimage.com/get/00C8FF/60x60" alt="Zima Blue Square" /><br><br>
+  <i style="font-size: 20px;">
+    "Buscando a essência através do código. Simples, direto, azul." — <b>PHcoded</b>
+  </i>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phdev6&color=00C8FF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&color=00C8FF&style=flat-square" alt="profile views" />
 </p>
