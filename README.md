@@ -1,5 +1,5 @@
 # 💫 Sobre Mim
-Olá! Me chamo Pedro Henrique Bezzera de Sousa, tenho 19 anos e estudo desenvolvimento full stack há pouco mais de 1 ano e 2 meses.
+Olá! Me chamo Pedro Henrique, tenho 19 anos e estudo desenvolvimento full stack há pouco mais de 1 ano e 2 meses.
 
 Apesar de estudar tanto front quanto back-end, é no front-end que encontro mais prazer em criar, experimentar e dar vida às ideias.
 
