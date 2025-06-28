@@ -77,7 +77,7 @@
 
 ---
 
-<!-- Contador de visitas -->
+<!-- Contador de visitas com número preto e fundo branco -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&label=visitas&label_color=111111&color=FFFFFF" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&label=visitas&label_color=ffffff&color=111111" alt="Contador de Visitas"/>
 </p>
