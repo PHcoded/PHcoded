@@ -80,7 +80,7 @@
 
 ---
 
-<!-- Contador visual preto e branco (número manual) -->
+<!-- Contador real preto e branco -->
 <p align="center">
-  <img src="https://img.shields.io/badge/visitas-1.2k-black?style=flat-square&labelColor=ffffff&color=ffffff" alt="Contador de Visitas"/>
+  <img src="https://phcoded-counter.vercel.app/api/visits?user=PHcoded" alt="Contador de visitas real preto e branco"/>
 </p>
