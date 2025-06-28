@@ -52,7 +52,7 @@
 ## 🪷 Essência & Propósito
 
 <p align="center" style="color: white; max-width: 600px;">
-  🧘‍♂️ No fim das contas, é sobre criar com propósito...  
+   No fim das contas, é sobre criar com propósito...  
   e, claro, com um toque de preto e branco.
 </p>
 
