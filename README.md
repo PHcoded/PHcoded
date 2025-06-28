@@ -9,13 +9,13 @@
 
 ---
 
-## 🧭 Sobre mim
+## 🎨 Por trás da tela
 
 <p align="center" style="color: white; max-width: 600px;">
-  Busco equilíbrio entre o lógico e o intuitivo.  
-  Estudo Desenvolvimento Full Stack há mais de 1 ano.  
-  Acredito que simplicidade e arte também vivem no código.  
-  Preto e branco são minha base — o resto é intenção.
+  Me chamo Pedro Henrique, e neste espaço combino arte, lógica e propósito.  
+  Estou há mais de 1 ano estudando desenvolvimento full stack, com foco em criar experiências limpas e funcionais.  
+  Gosto de pensar que cada projeto é uma conversa silenciosa entre o que eu sou e o que quero entregar.  
+  Menos ruído, mais intenção — e sempre com equilíbrio.
 </p>
 
 ---
@@ -52,11 +52,8 @@
 ## 🌿 Filosofia pessoal
 
 <p align="center" style="color: white; max-width: 600px;">
-  🧘‍♂️ Eu vejo o código como uma forma de contemplação.  
-  Cada projeto é uma pausa no mundo, um momento de foco.  
-  O silêncio entre as teclas, o contraste do preto e branco...  
-  Tudo isso carrega mais intenção do que parece.  
-  No fim, é sobre criar algo que tenha propósito — e paz.
+  🧘‍♂️ No fim das contas, é sobre criar com propósito...  
+  e, claro, com um toque de preto e branco.
 </p>
 
 ---
