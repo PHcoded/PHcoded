@@ -2,9 +2,9 @@
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
-<!-- Animação loop infinito só com "coded by PH" -->
+<!-- Animação com 10 frases + coded by PH no final, loop infinito -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=coded+by+PH&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=true&lines=Arte+que+ganha+vida+em+linhas;Lógica+e+alma+em+harmonia;Preto,+branco+e+intenção;Silêncio+que+cria;Fluxo,+foco+e+simplicidade;Crescer+com+cada+linha;Construir+sem+ruído;Pensar+antes+de+fazer;Código+com+alma;Detalhes+que+importam;coded+by+PH" />
 </p>
 
 ---
