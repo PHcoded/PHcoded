@@ -4,7 +4,7 @@
 
 <!-- Animação com 10 frases + coded by PH no final, loop infinito -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=true&lines=Arte+que+ganha+vida+em+linhas;Lógica+e+alma+em+harmonia;Preto,+branco+e+intenção;Silêncio+que+cria;Fluxo,+foco+e+simplicidade;Crescer+com+cada+linha;Construir+sem+ruído;Pensar+antes+de+fazer;Código+com+alma;Detalhes+que+importam;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=true&lines=Arte+que+ganha+vida+em+linhas;L%C3%B3gica+e+alma+em+harmonia;Preto,+branco+e+inten%C3%A7%C3%A3o;Sil%C3%AAncio+que+cria;Fluxo,+foco+e+simplicidade;Crescer+com+cada+linha;Construir+sem+ru%C3%ADdo;Pensar+antes+de+fazer;C%C3%B3digo+com+alma;Detalhes+que+importam;coded+by+PH" />
 </p>
 
 ---
