@@ -2,9 +2,9 @@
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
-<!-- Animação com frases e easter egg -->
+<!-- Animação com frases e easter egg (loop infinito) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=1&width=750&lines=Arte+que+ganha+vida+em+linhas;L%C3%B3gica+e+alma+em+harmonia;Preto%2C+branco+e+inten%C3%A7%C3%A3o;Sil%C3%AAncio+que+cria;Fluxo%2C+foco+e+simplicidade;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=∞&width=750&lines=Arte+que+ganha+vida+em+linhas;L%C3%B3gica+e+alma+em+harmonia;Preto%2C+branco+e+inten%C3%A7%C3%A3o;Sil%C3%AAncio+que+cria;Fluxo%2C+foco+e+simplicidade;coded+by+PH" />
 </p>
 
 ---
