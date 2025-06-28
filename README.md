@@ -2,7 +2,7 @@
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
-<!-- Animação com frases novas, loop infinito -->
+<!-- Animação com frases suaves, loop infinito -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Criar+algo+que+faz+sentido,+todo+dia.;Misturando+c%C3%B3digo+e+calma+na+mesma+medida.;Preto,+branco+e+um+toque+de+simplicidade.;Deixa+o+sil%C3%AAncio+falar+entre+as+linhas.;Fluxo+leve,+foco+no+que+importa.;Crescendo+um+passo+de+cada+vez.;Construindo+sem+pressa,+s%C3%B3+com+vontade.;Pensando+antes+de+clicar.;Programar+com+alma+e+sem+neura.;Detalhes+que+contam+hist%C3%B3ria.;coded+by+PH" />
 </p>
@@ -12,10 +12,10 @@
 ## 🎨 Por trás da tela
 
 <p align="center" style="color: white; max-width: 600px;">
-  Me chamo Pedro Henrique, e neste espaço combino arte, lógica e propósito.  
-  Estou há mais de 1 ano estudando desenvolvimento full stack, com foco em criar experiências limpas e funcionais.  
-  Gosto de pensar que cada projeto é uma conversa silenciosa entre o que eu sou e o que quero entregar.  
-  Menos ruído, mais intenção — e sempre com equilíbrio.
+  Me chamo Pedro Henrique. Estudo desenvolvimento full stack há mais de um ano e agora estou colocando tudo em prática.  
+  Faço, erro, aprendo e sigo melhorando, sempre buscando criar coisas simples e que funcionem de verdade.  
+  Vejo cada projeto como uma troca tranquila entre o que eu sou e o que quero passar.  
+  Sem pressa, com intenção — e sempre de boa.
 </p>
 
 ---
