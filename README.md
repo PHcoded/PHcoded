@@ -11,7 +11,7 @@
 
 ## 🎨 Por trás da tela
 
-<p align="center" style="color: white; max-width: 600px;">
+<p align="center">
   Me chamo Pedro Henrique. Estudo desenvolvimento full stack há mais de um ano e agora estou colocando tudo em prática.  
   Faço, erro, aprendo e sigo melhorando, sempre buscando criar coisas simples e que funcionem de verdade.  
   Vejo cada projeto como uma troca tranquila entre o que eu sou e o que quero passar.  
@@ -51,7 +51,7 @@
 
 ## 🪷 Essência & Propósito
 
-<p align="center" style="color: white; max-width: 600px;">
+<p align="center">
    No fim das contas, é sobre criar com propósito...  
   e, claro, com um toque de preto e branco.
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-<!-- Contador de visitas com fundo branco e número preto -->
+<!-- Contador de visitas corrigido -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&label=visitas&label_color=ffffff&color=111111" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square" alt="Contador de Visitas"/>
 </p>
