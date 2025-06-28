@@ -1,17 +1,17 @@
-<h1 align="center">Pedro Henrique | PHcoded</h1>
+<h1 align="center">Pedro Henrique 👁️ | PHcoded</h1>
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
-<!-- Animação com frases suaves -->
+<!-- Animação com frases suaves, loop infinito -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Criar+algo+que+faz+sentido,+todo+dia.;Misturando+c%C3%B3digo+e+calma+na+mesma+medida.;Preto,+branco+e+um+toque+de+simplicidade.;Deixa+o+sil%C3%AAncio+falar+entre+as+linhas.;Fluxo+leve,+foco+no+que+importa.;Crescendo+um+passo+de+cada+vez.;Construindo+sem+pressa,+s%C3%B3+com+vontade.;Pensando+antes+de+clicar.;Programar+com+alma+e+sem+neura.;Detalhes+que+contam+hist%C3%B3ria.;coded+by+PH" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Criar+algo+que+faz+sentido,+todo+dia.;Misturando+c%C3%B3digo+e+calma+na+mesma+medida.;Preto,+branco+e+um+toque+de+simplicidade.;Deixa+o+sil%C3%AAncio+falar+entre+as+linhas.;Fluxo+leve,+foco+no+que+importa.;Crescendo+um+passo+de+cada+vez.;Construindo+sem+pressa,+s%C3%B3+com+vontade.;Pensando+antes+de+clicar.;Programar+com+alma+e+sem+neura.;Detalhes+que+contam+hist%C3%B3ria.;coded+by+PH" />
 </p>
 
 ---
 
 ## 🎨 Por trás da tela
 
-<p align="center">
+<p align="center" style="color: white; max-width: 600px;">
   Me chamo Pedro Henrique. Estudo desenvolvimento full stack há mais de um ano e agora estou colocando tudo em prática.  
   Faço, erro, aprendo e sigo melhorando, sempre buscando criar coisas simples e que funcionem de verdade.  
   Vejo cada projeto como uma troca tranquila entre o que eu sou e o que quero passar.  
@@ -51,8 +51,8 @@
 
 ## 🪷 Essência & Propósito
 
-<p align="center">
-  No fim das contas, é sobre criar com propósito...  
+<p align="center" style="color: white; max-width: 600px;">
+  🧘‍♂️ No fim das contas, é sobre criar com propósito...  
   e, claro, com um toque de preto e branco.
 </p>
 
@@ -80,7 +80,7 @@
 
 ---
 
-<!-- Contador de visitas -->
+<!-- Contador de visitas com fundo branco e número preto -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&label=visitas&label_color=ffffff&color=111111" alt="Contador de Visitas"/>
 </p>
