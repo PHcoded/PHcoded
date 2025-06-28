@@ -80,7 +80,7 @@
 
 ---
 
-<!-- Contador de visitas corrigido -->
+<!-- Contador de visitas com fundo branco e número preto (visual apenas) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square" alt="Contador de Visitas"/>
+  <img src="https://img.shields.io/badge/visitas-1.2k-black?style=flat-square&labelColor=ffffff&color=ffffff" alt="Contador de Visitas"/>
 </p>
