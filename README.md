@@ -3,7 +3,7 @@
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Programador+Full+Stack;Trabalhando+com+calma+e+prop%C3%B3sito;Minimalismo+em+cada+linha;Criando+com+preto%2C+branco+e+um+toque+de+arte." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Arte+que+ganha+vida+em+linhas;L%C3%B3gica+e+alma+em+harmonia;Preto,+branco+e+inten%C3%A7%C3%A3o;Sil%C3%AAncio+que+cria;Fluxo,+foco+e+simplicidade" />
 </p>
 
 ---
@@ -57,16 +57,16 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:contact.phdev@gmail.com">
+  <a href="mailto:contact.phdev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://reddit.com/u/Pithenry" target="_blank">
+  <a href="https://reddit.com/u/Pithenry" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://x.com/PHthe2000" target="_blank">
+  <a href="https://x.com/PHthe2000" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
   </a>
-  <a href="https://discord.gg/MXRr7HKS" target="_blank">
+  <a href="https://discord.gg/MXRr7HKS" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
@@ -74,5 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&color=FF4444&label=visualiza%C3%A7%C3%B5es&style=flat-square&label_color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&color=FF4444&label=visualiza%C3%A7%C3%B5es&style=flat-square&label_color=000000" alt="profile views" />
 </p>
