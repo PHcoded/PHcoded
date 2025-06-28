@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Ferramentas de expressão
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📈 Ritmo & Progresso
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PHcoded&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=000000" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌿 Filosofia pessoal
+## 🪷 Essência & Propósito
 
 <p align="center" style="color: white; max-width: 600px;">
   🧘‍♂️ No fim das contas, é sobre criar com propósito...  
@@ -58,7 +58,7 @@
 
 ---
 
-## 📬 Contato
+## 📬 Onde me encontrar
 
 <p align="center">
   <a href="mailto:contact.phdev@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -77,6 +77,7 @@
 
 ---
 
+<!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&color=FF4444&label=visualiza%C3%A7%C3%B5es&style=flat-square&label_color=111111" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&label=visitas&label_color=111111&color=FFFFFF" alt="Contador de Visitas"/>
 </p>
