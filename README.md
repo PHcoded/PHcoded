@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Henrique 👁️ | PHcoded</h1>
+<h1 align="center">Pedro Henrique  | PHcoded</h1>
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
