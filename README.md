@@ -2,7 +2,7 @@
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
-<!-- Animação com frases (loop infinito) -->
+<!-- Animação com frases em loop contínuo -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Arte+que+ganha+vida+em+linhas;Lógica+e+alma+em+harmonia;Preto,+branco+e+intenção;Silêncio+que+cria;Fluxo,+foco+e+simplicidade" />
 </p>
