@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Henrique 👁️ | PHcoded</h1>
+<h1 align="center">Pedro Henrique  | PHcoded</h1>
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
@@ -52,7 +52,7 @@
 ## 🪷 Essência & Propósito
 
 <p align="center" style="color: white; max-width: 600px;">
-  🧘‍♂️ No fim das contas, é sobre criar com propósito...  
+   No fim das contas, é sobre criar com propósito...  
   e, claro, com um toque de preto e branco.
 </p>
 
