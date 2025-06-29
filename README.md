@@ -1,9 +1,9 @@
-<h1 align="center">Pedro Henrique  | PHcoded</h1>
+<h1 align="center">Pedro Henrique | PHcoded</h1>
 
 <p align="center"><i>"Bem-vindo ao meu espaço — onde o código encontra calma."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Criar+algo+que+faz+sentido,+todo+dia.;Misturando+c%C3%B3digo+e+calma+na+mesma+medida.;Preto,+branco+e+um+toque+de+simplicidade.;Deixa+o+sil%C3%AAncio+falar+entre+as+linhas.;Fluxo+leve,+foco+no+que+importa.;Crescendo+um+passo+de+cada+vez.;Construindo+sem+pressa,+s%C3%B3+com+vontade.;Pensando+antes+de+clicar.;Programar+com+alma+e+sem+neura.;Detalhes+que+contam+hist%C3%B3ria.;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Criar+interfaces+com+sentido+e+estilo.;Preto,+branco+e+um+toque+de+calma.;Design+responsivo+e+detalhado.;Fluxo+leve+com+código+claro.;Construindo+frentes+que+funcionam.;Cada+linha,+uma+intenção.;coded+by+PH" />
 </p>
 
 ---
@@ -11,10 +11,9 @@
 ## 🎨 Por trás da tela
 
 <p align="center" style="color: white; max-width: 600px;">
-  Me chamo Pedro Henrique. Estudo desenvolvimento full stack há mais de um ano e agora estou colocando tudo em prática.  
-  Faço, erro, aprendo e sigo melhorando, sempre buscando criar coisas simples e que funcionem de verdade.  
-  Vejo cada projeto como uma troca tranquila entre o que eu sou e o que quero passar.  
-  Sem pressa, com intenção — e sempre de boa.
+  Me chamo Pedro Henrique. Estudo desenvolvimento web com foco em front-end moderno e estou construindo meu caminho com projetos práticos e minimalistas.  
+  Busco criar interfaces simples, funcionais e com identidade — tudo com calma, intenção e consistência.  
+  Do HTML ao React, meu foco está na experiência e nos detalhes.
 </p>
 
 ---
@@ -24,17 +23,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-111111?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shadcn/UI-111111?style=for-the-badge&logo=radixui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-111111?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 
 ---
@@ -51,8 +47,8 @@
 ## 🪷 Essência & Propósito
 
 <p align="center" style="color: white; max-width: 600px;">
-   No fim das contas, é sobre criar com propósito...  
-  e, claro, com um toque de preto e branco.
+   No fim das contas, é sobre criar experiências visuais com intenção.  
+   Leve, funcional, preto no branco.
 </p>
 
 ---
