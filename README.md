@@ -3,7 +3,7 @@
 <p align="center"><i>"Bem-vindo ao meu espaço — onde a lógica encontra fluidez."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo+APIs+com+clareza+e+propósito;Back-end+com+calma+e+consistência;Código+que+funciona+por+trás+dos+bastidores;Do+Node.js+ao+MongoDB,+sempre+em+evolução;Criando+soluções+que+movem+sistemas;Cada+linha,+uma+intenção;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo+APIs+com+clareza+e+proposito;Back-end+com+calma+e+consistencia;Codigo+que+funciona+por+tras+dos+bastidores;Do+Node.js+ao+MongoDB+sempre+em+evolucao;Criando+solucoes+que+movem+sistemas;Cada+linha+uma+intencao;coded+by+PH" />
 </p>
 
 ---
@@ -80,5 +80,5 @@
 ## 👁 Contador de visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHcoded&style=flat-square&color=white" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=PHcoded&label=Visualizacoes&color=111111&style=flat-square" alt="Contador de Visitas"/>
 </p>
