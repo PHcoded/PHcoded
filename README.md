@@ -1,37 +1,36 @@
 <h1 align="center">Pedro Henrique | PHcoded</h1>
 
-<p align="center"><i>"Bem-vindo ao meu espaço — onde a lógica encontra fluidez."</i></p>
+<p align="center"><i>"Bem-vindo ao meu espaço — onde a criatividade encontra a usabilidade."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo+APIs+com+clareza+e+proposito;Back-end+com+calma+e+consistencia;Codigo+que+funciona+por+tras+dos+bastidores;Do+Node.js+ao+MongoDB+sempre+em+evolucao;Criando+solucoes+que+movem+sistemas;Cada+linha+uma+intencao;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo+interfaces+que+encantam;e+experiencias+fluídas;Código+limpo+e+responsivo;Do+HTML+ao+React+sempre+em+evolução;Criando+websites+que+movem+usuários;Cada+pixel+com+intenção;coded+by+PH" />
 </p>
 
 ---
 
-## 🛠 Por trás dos bastidores
+## 🛠 Por trás das telas
 
 <p align="center" style="color: white; max-width: 600px;">
-  Sou Pedro Henrique, desenvolvedor web focado em back-end.  
-  Gosto de criar APIs, sistemas e lógicas que tornam tudo possível por trás da tela.  
-  Trabalho com calma, atenção aos detalhes e projetos práticos — aprendendo mais a cada linha.  
-  Meu código busca ser leve, funcional e direto ao ponto.
+  Sou Pedro Henrique, desenvolvedor front-end focado em criar experiências visuais agradáveis e funcionais.  
+  Gosto de transformar ideias em interfaces intuitivas e responsivas, garantindo que cada clique seja simples e eficaz.  
+  Trabalho com atenção aos detalhes, design limpo e sempre buscando a melhor performance para o usuário final.
 </p>
 
 ---
 
-## ⚙️ Ferramentas que uso para dar vida ao back-end
+## ⚙️ Ferramentas que uso para dar vida ao front-end
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-111111?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
@@ -48,9 +47,9 @@
 ## 🪷 Meu propósito
 
 <p align="center" style="color: white; max-width: 600px;">
-  Meu objetivo é criar soluções que funcionam de forma simples e eficiente.  
-  Gosto de fazer a lógica acontecer, cuidar dos bastidores e deixar tudo fluindo bem.  
-  Caminho com calma, aprendendo na prática, e transformando código em solução real.
+  Meu objetivo é criar interfaces simples, acessíveis e responsivas.  
+  Acredito que design e funcionalidade andam juntos para uma experiência única.  
+  Evoluo a cada projeto, buscando transformar ideias em sites que encantam e funcionam.
 </p>
 
 ---
