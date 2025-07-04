@@ -1,41 +1,41 @@
 <h1 align="center">Pedro Henrique | PHcoded</h1>
 
-<p align="center"><i>"Bem-vindo ao meu espaço — onde a criatividade encontra a usabilidade."</i></p>
+<p align="center"><i>Back-end simples, funcional e direto ao ponto.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo%20interfaces%20que%20encantam%3B%20e%20experiencias%20flu%C3%ADdas%3B%20C%C3%B3digo%20limpo%20e%20responsivo%3B%20Do%20HTML%20ao%20React%20sempre%20em%20evolu%C3%A7%C3%A3o%3B%20Criando%20websites%20que%20movem%20usu%C3%A1rios%3B%20Cada%20pixel%20com%20inten%C3%A7%C3%A3o%3B%20coded%20by%20PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=APIs+que+funcionam+de+verdade%3B+C%C3%B3digo+organizado+e+limpo%3B+Autentica%C3%A7%C3%A3o%2C+CRUDs+e+REST+sem+mist%C3%A9rio%3B+Projetos+simples%2C+mas+eficazes%3B+Node.js+e+Mongo+no+controle%3B+Back-end+pronto+pra+produção." />
 </p>
 
 ---
 
-## 🛠 Por trás das telas
+## 🛠 Sobre mim
 
 <p align="center" style="color: white; max-width: 600px;">
-  Sou Pedro Henrique, desenvolvedor front-end focado em criar experiências visuais agradáveis e funcionais.  
-  Gosto de transformar ideias em interfaces intuitivas e responsivas, garantindo que cada clique seja simples e eficaz.  
-  Trabalho com atenção aos detalhes, design limpo e sempre buscando a melhor performance para o usuário final.
+  Sou Pedro Henrique, desenvolvedor focado em back-end.  
+  Gosto de criar APIs que funcionam de forma clara e objetiva, com código limpo, autenticação, banco de dados e tudo que um projeto precisa pra rodar bem.  
+  Meu foco é resolver problemas com soluções simples e práticas.
 </p>
 
 ---
 
-## ⚙️ Ferramentas que uso para dar vida ao front-end
+## ⚙️ Tecnologias e ferramentas que uso
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
 
-## 📈 Meu ritmo de evolução
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PHcoded&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=000000" />
@@ -44,17 +44,16 @@
 
 ---
 
-## 🪷 Meu propósito
+## 🧠 O que eu busco
 
 <p align="center" style="color: white; max-width: 600px;">
-  Meu objetivo é criar interfaces simples, acessíveis e responsivas.  
-  Acredito que design e funcionalidade andam juntos para uma experiência única.  
-  Evoluo a cada projeto, buscando transformar ideias em sites que encantam e funcionam.
+  Quero criar soluções back-end que realmente sirvam pra algo.  
+  Seja uma API de login, um sistema de vendas ou um projeto simples, minha meta é fazer com que funcione bem e seja fácil de manter.
 </p>
 
 ---
 
-## 📬 Onde me encontrar
+## 📬 Fale comigo
 
 <p align="center">
   <a href="mailto:contact.phdev@gmail.com" target="_blank" rel="noopener noreferrer">
