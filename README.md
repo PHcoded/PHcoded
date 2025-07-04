@@ -3,7 +3,7 @@
 <p align="center"><i>"Bem-vindo ao meu espaço — onde a criatividade encontra a usabilidade."</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo+interfaces+que+encantam;e+experiencias+fluídas;Código+limpo+e+responsivo;Do+HTML+ao+React+sempre+em+evolução;Criando+websites+que+movem+usuários;Cada+pixel+com+intenção;coded+by+PH" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&repeat=true&lines=Construindo%20interfaces%20que%20encantam%3B%20e%20experiencias%20flu%C3%ADdas%3B%20C%C3%B3digo%20limpo%20e%20responsivo%3B%20Do%20HTML%20ao%20React%20sempre%20em%20evolu%C3%A7%C3%A3o%3B%20Criando%20websites%20que%20movem%20usu%C3%A1rios%3B%20Cada%20pixel%20com%20inten%C3%A7%C3%A3o%3B%20coded%20by%20PH" />
 </p>
 
 ---
