@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 Quem sou eu no código
+## 👨‍💻 Quem sou eu?
 
 <p align="center" style="color: white; max-width: 600px;">
   Me chamo Pedro Henrique, tenho 18 anos e estou explorando o universo da programação há quase 1 ano.  
