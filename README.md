@@ -8,19 +8,20 @@
 
 ---
 
-## 🧔‍♂️ Quem sou eu
+## 👨‍💻 Quem sou eu no código
 
 <p align="center" style="color: white; max-width: 600px;">
-  Sou Pedro Henrique, desenvolvedor focado em back-end.  
-  Gosto de criar APIs que funcionam de forma clara e objetiva, com código limpo, autenticação, banco de dados e tudo que um projeto precisa pra rodar bem.  
-  Meu foco é resolver problemas com soluções simples e práticas.
+  Me chamo Pedro Henrique, tenho 18 anos e estou explorando o universo da programação há quase 1 ano.  
+  Comecei por curiosidade, quebrando a cabeça com pequenos projetos e tentando entender como as coisas funcionam por trás das telas.  
+  Hoje, sigo estudando, praticando e aprendendo no meu ritmo, sempre com vontade de transformar ideias em algo que realmente funcione.
 </p>
 
 ---
 
-## 🧰 O que eu uso no dia a dia
+## 🧰 Ferramentas que uso
 
 <div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -34,7 +35,7 @@
 
 ---
 
-## 📊 Um pouco do meu GitHub
+## 📊 Meu github
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PHcoded&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff&bg_color=000000" />
@@ -43,16 +44,16 @@
 
 ---
 
-## 🎯 O que eu quero fazer
+## 🎯 O que eu quero entregar
 
 <p align="center" style="color: white; max-width: 600px;">
-  Quero criar soluções back-end que realmente sirvam pra algo.  
-  Seja uma API de login, um sistema de vendas ou um projeto simples, minha meta é fazer com que funcione bem e seja fácil de manter.
+  APIs seguras, fáceis de usar e com foco no que realmente importa: funcionar bem.  
+  Login, cadastros, integrações simples — tudo direto ao ponto, sem complicação.
 </p>
 
 ---
 
-## 📬 Bora trocar uma ideia?
+## 📬 Me chama aqui
 
 <p align="center">
   <a href="mailto:contact.phdev@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -74,7 +75,7 @@
 
 ---
 
-## 👁 Contador de visitas
+## 👁 Visualizações do perfil
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PHcoded&label=Visualizacoes&color=111111&style=flat-square" alt="Contador de Visitas"/>
